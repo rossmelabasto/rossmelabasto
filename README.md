@@ -1,4 +1,4 @@
-<!-- README del perfil de GitHub. Va en el repo público RossmelMax/RossmelMax (mismo nombre que el usuario). -->
+<!-- README del perfil de GitHub. Va en el repo público rossmelabasto/rossmelabasto (mismo nombre que el usuario). -->
 
 <p align="center">
   <a href="https://portfolio.rossmel.top">
@@ -23,7 +23,7 @@ Hoy integro **IA** tanto en productos (RAG, LLMs locales y en la nube) como en m
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **AdvAI** (proyecto de grado) | Auditoría de contratos con IA y **citas legales verificables**: búsqueda híbrida BM25 + embeddings, el modelo no puede inventar citas. Acierto de recuperación 42,9 % → 80 %. | Next.js · FastAPI · SQLite FTS5 · Ollama |
-| **[SGPG](https://github.com/RossmelMax/v0-university-project-manager)** | Gestor de proyectos de grado en uso por la jefatura de carrera de la UDABOL, con resumen y etiquetas de PDFs por IA. | Next.js · Firebase · Groq |
+| **[SGPG](https://github.com/rossmelabasto/v0-university-project-manager)** | Gestor de proyectos de grado en uso por la jefatura de carrera de la UDABOL, con resumen y etiquetas de PDFs por IA. | Next.js · Firebase · Groq |
 | **Link'u** | App de escritorio offline-first para el cobro de agua potable de una comunidad rural: respaldos cifrados, auto-update, 47 tests y CI multiplataforma. | Electron · React · SQLite |
 | **CarX** (antes Vulcano) | SaaS multi-tenant para talleres mecánicos; principal dev frontend (944 de 1.131 commits). | Next.js · TypeScript · MUI · Redux |
 | **rOS** | Mi flavor de Arch en camino a ser distro: niri + DankMaterialShell, Limine, scripts de actualización con snapshots. | Arch · Shell · systemd |
