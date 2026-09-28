@@ -102,10 +102,4 @@ More on the **[blog](https://portfolio.rossmel.top/en/blog/)**.
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=rossmelabasto&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 <p align="center"><sub>⭐️ From <a href="https://github.com/rossmelabasto">rossmelabasto</a></sub></p>
