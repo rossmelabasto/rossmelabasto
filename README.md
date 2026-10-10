@@ -12,7 +12,7 @@
 
 ### 🚀 About me
 
-7+ years writing code since I got my first computer in 2019 — self-taught through courses, docs, and a lot of trial and error. The last 3 were at a company dedicated to software development, where I was the lead frontend developer for a multi-tenant SaaS for auto repair shops and shipped several React Native apps for clients in Bolivia and the US.
+6+ years writing code since 2020 — self-taught through courses, docs, and a lot of trial and error. The last 3 were at a company dedicated to software development, where I was the lead frontend developer for a multi-tenant SaaS for auto repair shops and shipped several React Native apps for clients in Bolivia and the US.
 
 Today I'm going fullstack and building **AI** into everything I do: into products — like AdvAI, my capstone, which audits contracts with verifiable legal citations — and into my daily workflow with agents and local LLMs.
 
