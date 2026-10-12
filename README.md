@@ -1,8 +1,8 @@
 <!-- README del perfil de GitHub. Vive en el repo público rossmelabasto/rossmelabasto (mismo nombre que el usuario). Generado con ayuda de techwithgen.github.io/profile-studio. -->
 
 <p align="center">
-  <a href="https://portfolio.rossmel.top">
-    <img src="https://portfolio.rossmel.top/og.png" alt="Rossmel Abasto — Frontend → Fullstack · AI" width="100%" />
+  <a href="https://portfolio.rossmel.com">
+    <img src="https://portfolio.rossmel.com/og.png" alt="Rossmel Abasto — Frontend → Fullstack · AI" width="100%" />
   </a>
 </p>
 
@@ -22,9 +22,9 @@ Today I'm going fullstack and building **AI** into everything I do: into product
 - 💬 Ask me about React, Next.js, RAG/LLMs, or Linux
 - ⚡ Fun fact: I run a homelab with a dozen services and an AI agent that keeps it alive 24/7
 
-- 🌐 Portfolio: **[portfolio.rossmel.top](https://portfolio.rossmel.top)**
-- 📄 Resume: **[cv.rossmel.top](https://cv.rossmel.top)**
-- ✍️ Blog: **[portfolio.rossmel.top/blog](https://portfolio.rossmel.top/en/blog/)**
+- 🌐 Portfolio: **[portfolio.rossmel.com](https://portfolio.rossmel.com)**
+- 📄 Resume: **[cv.rossmel.com](https://cv.rossmel.com)**
+- ✍️ Blog: **[portfolio.rossmel.com/blog](https://portfolio.rossmel.com/en/blog/)**
 
 ### 🛠️ Tech stack
 
@@ -67,25 +67,25 @@ Today I'm going fullstack and building **AI** into everything I do: into product
 | **CarX** (formerly Vulcano) | Multi-tenant SaaS for auto repair shops; lead frontend developer (944 of 1,131 commits). | Next.js · TypeScript · MUI · Redux |
 | **rOS** | My own Arch flavor, on its way to becoming a full distro: niri + DankMaterialShell, Limine, snapshot-based update scripts. | Arch · Shell · systemd |
 
-> Several repos are private (client work or university projects) — full case studies live on the [portfolio](https://portfolio.rossmel.top/#work).
+> Several repos are private (client work or university projects) — full case studies live on the [portfolio](https://portfolio.rossmel.com/#work).
 
 ### ✍️ Latest articles
 
-- [Your own Netflix at home: a media center with Jellyfin, Docker and secure access](https://portfolio.rossmel.top/en/blog/home-media-center-with-jellyfin/)
-- [Long-running LLM jobs: multiple providers, a resumable queue and live progress](https://portfolio.rossmel.top/en/blog/long-running-llm-jobs/)
-- [An AI agent that runs my server: memory in files and skills as procedures](https://portfolio.rossmel.top/en/blog/an-ai-agent-that-runs-my-server/)
-- [Anonymizing a contract before sending it to an LLM (without another LLM)](https://portfolio.rossmel.top/en/blog/anonymizing-contracts-before-calling-an-llm/)
-- [Coding before and after AI: what years of doing it by hand left me](https://portfolio.rossmel.top/en/blog/coding-before-and-after-ai/)
-- [How I stopped an LLM from inventing articles of the Civil Code](https://portfolio.rossmel.top/en/blog/stopping-an-llm-from-inventing-legal-citations/)
+- [Your own Netflix at home: a media center with Jellyfin, Docker and secure access](https://portfolio.rossmel.com/en/blog/home-media-center-with-jellyfin/)
+- [Long-running LLM jobs: multiple providers, a resumable queue and live progress](https://portfolio.rossmel.com/en/blog/long-running-llm-jobs/)
+- [An AI agent that runs my server: memory in files and skills as procedures](https://portfolio.rossmel.com/en/blog/an-ai-agent-that-runs-my-server/)
+- [Anonymizing a contract before sending it to an LLM (without another LLM)](https://portfolio.rossmel.com/en/blog/anonymizing-contracts-before-calling-an-llm/)
+- [Coding before and after AI: what years of doing it by hand left me](https://portfolio.rossmel.com/en/blog/coding-before-and-after-ai/)
+- [How I stopped an LLM from inventing articles of the Civil Code](https://portfolio.rossmel.com/en/blog/stopping-an-llm-from-inventing-legal-citations/)
 
-More on the **[blog](https://portfolio.rossmel.top/en/blog/)**.
+More on the **[blog](https://portfolio.rossmel.com/en/blog/)**.
 
 ### 🔗 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/rossmel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio.rossmel.top"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://portfolio.rossmel.top/en/blog/"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://portfolio.rossmel.com"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio.rossmel.com/en/blog/"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="mailto:abastorossmel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
