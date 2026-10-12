@@ -62,7 +62,7 @@ Today I'm going fullstack and building **AI** into everything I do: into product
 | Project | What it is | Stack |
 |---|---|---|
 | **AdvAI** (capstone) | Contract auditing with AI and **verifiable legal citations**: hybrid BM25 + embeddings search, so the model can't invent a citation. Retrieval accuracy went from 42.9% to 80%. | Next.js · FastAPI · SQLite FTS5 · Ollama |
-| **[SGPG](https://github.com/rossmelabasto/ross_sgpg)** | Thesis project manager in daily use by a university department head, with AI-powered PDF summaries and tag extraction. | Next.js · Firebase · Groq |
+| **SGPG** | Thesis project manager in daily use by a university department head, with AI-powered PDF summaries and tag extraction. | Next.js · Firebase · Groq |
 | **Link'u** | Truly offline-first desktop app for a rural community's water billing: encrypted backups, auto-update, 47 tests and cross-platform CI. | Electron · React · SQLite |
 | **CarX** (formerly Vulcano) | Multi-tenant SaaS for auto repair shops; lead frontend developer (944 of 1,131 commits). | Next.js · TypeScript · MUI · Redux |
 | **rOS** | My own Arch flavor, on its way to becoming a full distro: niri + DankMaterialShell, Limine, snapshot-based update scripts. | Arch · Shell · systemd |
