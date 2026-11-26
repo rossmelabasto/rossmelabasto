@@ -16,11 +16,12 @@
 
 Today I'm going fullstack and building **AI** into everything I do: into products — like AdvAI, my capstone, which audits contracts with verifiable legal citations — and into my daily workflow with agents and local LLMs.
 
-- 🔭 Currently building **AdvAI**, a legal-contract auditor that never invents its citations
+- 🔭 Currently building **AdvAI**, a legal-contract auditor that never invents its citations, and **[Visualizer](https://visualizer.rossmel.com)**, a music visualizer for the web, Linux and Android
+- 📦 My Linux programs install from my own signed repository: **[repo.rossmel.com](https://repo.rossmel.com)** (pacman, APT, DNF and F-Droid)
 - 🌱 Currently deepening my backend: FastAPI, PostgreSQL, distributed systems
 - 👯 Looking to collaborate on RAG / LLM tooling and open-source dev tools
 - 💬 Ask me about React, Next.js, RAG/LLMs, or Linux
-- ⚡ Fun fact: I run a homelab with a dozen services and an AI agent that keeps it alive 24/7
+- ⚡ Fun fact: I run a homelab with about twenty services and an AI agent that keeps it alive 24/7
 
 - 🌐 Portfolio: **[portfolio.rossmel.com](https://portfolio.rossmel.com)**
 - 📄 Resume: **[cv.rossmel.com](https://cv.rossmel.com)**
@@ -61,22 +62,24 @@ Today I'm going fullstack and building **AI** into everything I do: into product
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Visualizer](https://github.com/rossmelabasto/ross_visualizer)** | Real-time music visualizer: colors from the album art, motion from the sound. Seven WebGL2 scenes, a Linux app with a click-through overlay and an Android app. | TypeScript · WebGL2 · Tauri · Kotlin |
 | **AdvAI** (capstone) | Contract auditing with AI and **verifiable legal citations**: hybrid BM25 + embeddings search, so the model can't invent a citation. Retrieval accuracy went from 42.9% to 80%. | Next.js · FastAPI · SQLite FTS5 · Ollama |
 | **SGPG** | Thesis project manager in daily use by a university department head, with AI-powered PDF summaries and tag extraction. | Next.js · Firebase · Groq |
 | **Link'u** | Truly offline-first desktop app for a rural community's water billing: encrypted backups, auto-update, 47 tests and cross-platform CI. | Electron · React · SQLite |
 | **CarX** (formerly Vulcano) | Multi-tenant SaaS for auto repair shops; lead frontend developer (944 of 1,131 commits). | Next.js · TypeScript · MUI · Redux |
-| **rOS** | My own Arch flavor, on its way to becoming a full distro: niri + DankMaterialShell, Limine, snapshot-based update scripts. | Arch · Shell · systemd |
+| **rOS** | My own Arch flavor, on its way to becoming a full distro: niri + DankMaterialShell, Limine, its own signed packages. | Arch · Shell · systemd |
+| **[repo.rossmel.com](https://github.com/rossmelabasto/ross_packages)** | One signed repository for pacman, APT and DNF (plus F-Droid), built by GitHub Actions; every package is tested on 6 distros before it ships. Anonymous download stats with a Cloudflare Worker. | GitHub Actions · Cloudflare Workers · D1 |
 
 > Several repos are private (client work or university projects) — full case studies live on the [portfolio](https://portfolio.rossmel.com/#work).
 
 ### ✍️ Latest articles
 
-- [Your own Netflix at home: a media center with Jellyfin, Docker and secure access](https://portfolio.rossmel.com/en/blog/home-media-center-with-jellyfin/)
-- [Long-running LLM jobs: multiple providers, a resumable queue and live progress](https://portfolio.rossmel.com/en/blog/long-running-llm-jobs/)
-- [An AI agent that runs my server: memory in files and skills as procedures](https://portfolio.rossmel.com/en/blog/an-ai-agent-that-runs-my-server/)
-- [Anonymizing a contract before sending it to an LLM (without another LLM)](https://portfolio.rossmel.com/en/blog/anonymizing-contracts-before-calling-an-llm/)
-- [Coding before and after AI: what years of doing it by hand left me](https://portfolio.rossmel.com/en/blog/coding-before-and-after-ai/)
-- [How I stopped an LLM from inventing articles of the Civil Code](https://portfolio.rossmel.com/en/blog/stopping-an-llm-from-inventing-legal-citations/)
+- [The game won't export your collection, so the computer drives the phone](https://portfolio.rossmel.com/en/blog/exporting-my-tcg-pocket-collection/)
+- [record: a terminal recorder with a level meter](https://portfolio.rossmel.com/en/blog/record-a-terminal-recorder/)
+- [Packaging a Python app for any Linux](https://portfolio.rossmel.com/en/blog/packaging-a-python-app-for-linux/)
+- [Counting downloads without tracking anyone](https://portfolio.rossmel.com/en/blog/counting-downloads-without-tracking/)
+- [The same visualizer on Android, with Tauri v2](https://portfolio.rossmel.com/en/blog/the-visualizer-on-android-with-tauri/)
+- [A click-through overlay on Wayland](https://portfolio.rossmel.com/en/blog/click-through-overlay-on-wayland/)
 
 More on the **[blog](https://portfolio.rossmel.com/en/blog/)**.
 
@@ -86,6 +89,8 @@ More on the **[blog](https://portfolio.rossmel.com/en/blog/)**.
   <a href="https://linkedin.com/in/rossmel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolio.rossmel.com"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://portfolio.rossmel.com/en/blog/"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.instagram.com/rossmel.js/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@rossmel.env"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="mailto:abastorossmel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
