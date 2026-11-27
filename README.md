@@ -74,12 +74,12 @@ Today I'm going fullstack and building **AI** into everything I do: into product
 
 ### ✍️ Latest articles
 
-- [The game won't export your collection, so the computer drives the phone](https://portfolio.rossmel.com/en/blog/exporting-my-tcg-pocket-collection/)
-- [record: a terminal recorder with a level meter](https://portfolio.rossmel.com/en/blog/record-a-terminal-recorder/)
-- [Packaging a Python app for any Linux](https://portfolio.rossmel.com/en/blog/packaging-a-python-app-for-linux/)
-- [Counting downloads without tracking anyone](https://portfolio.rossmel.com/en/blog/counting-downloads-without-tracking/)
-- [The same visualizer on Android, with Tauri v2](https://portfolio.rossmel.com/en/blog/the-visualizer-on-android-with-tauri/)
-- [A click-through overlay on Wayland](https://portfolio.rossmel.com/en/blog/click-through-overlay-on-wayland/)
+- [Exporting my Pokémon TCG Pocket collection: the computer drives the phone over adb](https://portfolio.rossmel.com/en/blog/exporting-my-tcg-pocket-collection/)
+- [record: recording the microphone from the terminal and transcribing it when you stop](https://portfolio.rossmel.com/en/blog/record-a-terminal-recorder/)
+- [Packaging a Python app for any Linux, with its own Python inside](https://portfolio.rossmel.com/en/blog/packaging-a-python-app-for-linux/)
+- [Counting how many people install my Linux programs without tracking anyone](https://portfolio.rossmel.com/en/blog/counting-downloads-without-tracking/)
+- [My music visualizer on Android: the same web app with Tauri v2](https://portfolio.rossmel.com/en/blog/the-visualizer-on-android-with-tauri/)
+- [Drawing above every window without blocking the mouse: an overlay on Linux (Wayland)](https://portfolio.rossmel.com/en/blog/click-through-overlay-on-wayland/)
 
 More on the **[blog](https://portfolio.rossmel.com/en/blog/)**.
 
